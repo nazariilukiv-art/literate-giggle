@@ -1,9 +1,9 @@
 fun main(){
     println("Primer programa Kotlin")
 
-    var nombre:String = "Nazarii" //String
-    var edad = 40 // Int
-    var correo:String? = null
+    val nombre = "Nazarii" //String
+    val edad = 40 // Int
+    val correo:String? = null
     lateinit var direccion: String
     val DNI = "123123A"
 
